@@ -21,3 +21,8 @@ data/
 # OS / editor junk
 .DS_Store
 Thumbs.db
+
+
+accuracy_curve.png
+auc_curve.png
+loss_curve.png

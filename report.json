@@ -1,0 +1,260 @@
+{
+  "SpeechCommands": {
+    "bed": {
+      "files": 1713,
+      "avg_duration_sec": 0.986,
+      "min_duration_sec": 0.743,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 137,
+      "sample_bad_files": 0
+    },
+    "bird": {
+      "files": 1731,
+      "avg_duration_sec": 0.982,
+      "min_duration_sec": 0.557,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 142,
+      "sample_bad_files": 0
+    },
+    "cat": {
+      "files": 1733,
+      "avg_duration_sec": 0.984,
+      "min_duration_sec": 0.555,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 140,
+      "sample_bad_files": 0
+    },
+    "dog": {
+      "files": 1746,
+      "avg_duration_sec": 0.981,
+      "min_duration_sec": 0.597,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 129,
+      "sample_bad_files": 0
+    },
+    "down": {
+      "files": 2359,
+      "avg_duration_sec": 0.989,
+      "min_duration_sec": 0.683,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 106,
+      "sample_bad_files": 0
+    },
+    "eight": {
+      "files": 2352,
+      "avg_duration_sec": 0.98,
+      "min_duration_sec": 0.64,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 104,
+      "sample_bad_files": 0
+    },
+    "five": {
+      "files": 2357,
+      "avg_duration_sec": 0.983,
+      "min_duration_sec": 0.557,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 104,
+      "sample_bad_files": 0
+    },
+    "four": {
+      "files": 2372,
+      "avg_duration_sec": 0.989,
+      "min_duration_sec": 0.557,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 104,
+      "sample_bad_files": 0
+    },
+    "go": {
+      "files": 2372,
+      "avg_duration_sec": 0.983,
+      "min_duration_sec": 0.512,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 104,
+      "sample_bad_files": 0
+    },
+    "happy": {
+      "files": 1742,
+      "avg_duration_sec": 0.981,
+      "min_duration_sec": 0.512,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 134,
+      "sample_bad_files": 0
+    },
+    "house": {
+      "files": 1750,
+      "avg_duration_sec": 0.982,
+      "min_duration_sec": 0.604,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 130,
+      "sample_bad_files": 0
+    },
+    "left": {
+      "files": 2353,
+      "avg_duration_sec": 0.99,
+      "min_duration_sec": 0.697,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 113,
+      "sample_bad_files": 0
+    },
+    "marvin": {
+      "files": 1746,
+      "avg_duration_sec": 0.986,
+      "min_duration_sec": 0.683,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 136,
+      "sample_bad_files": 0
+    },
+    "nine": {
+      "files": 2364,
+      "avg_duration_sec": 0.99,
+      "min_duration_sec": 0.65,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 108,
+      "sample_bad_files": 0
+    },
+    "no": {
+      "files": 2375,
+      "avg_duration_sec": 0.982,
+      "min_duration_sec": 0.65,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 107,
+      "sample_bad_files": 0
+    },
+    "off": {
+      "files": 2357,
+      "avg_duration_sec": 0.982,
+      "min_duration_sec": 0.64,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 99,
+      "sample_bad_files": 0
+    },
+    "on": {
+      "files": 2367,
+      "avg_duration_sec": 0.983,
+      "min_duration_sec": 0.557,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 109,
+      "sample_bad_files": 0
+    },
+    "one": {
+      "files": 2370,
+      "avg_duration_sec": 0.987,
+      "min_duration_sec": 0.697,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 108,
+      "sample_bad_files": 0
+    },
+    "right": {
+      "files": 2367,
+      "avg_duration_sec": 0.99,
+      "min_duration_sec": 0.725,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 109,
+      "sample_bad_files": 0
+    },
+    "seven": {
+      "files": 2377,
+      "avg_duration_sec": 0.986,
+      "min_duration_sec": 0.597,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 108,
+      "sample_bad_files": 0
+    },
+    "sheila": {
+      "files": 1734,
+      "avg_duration_sec": 0.994,
+      "min_duration_sec": 0.768,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 133,
+      "sample_bad_files": 0
+    },
+    "six": {
+      "files": 2369,
+      "avg_duration_sec": 0.987,
+      "min_duration_sec": 0.683,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 104,
+      "sample_bad_files": 0
+    },
+    "stop": {
+      "files": 2380,
+      "avg_duration_sec": 0.983,
+      "min_duration_sec": 0.557,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 110,
+      "sample_bad_files": 0
+    },
+    "three": {
+      "files": 2356,
+      "avg_duration_sec": 0.985,
+      "min_duration_sec": 0.597,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 112,
+      "sample_bad_files": 0
+    },
+    "tree": {
+      "files": 1733,
+      "avg_duration_sec": 0.983,
+      "min_duration_sec": 0.597,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 133,
+      "sample_bad_files": 0
+    },
+    "two": {
+      "files": 2373,
+      "avg_duration_sec": 0.976,
+      "min_duration_sec": 0.555,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 99,
+      "sample_bad_files": 0
+    },
+    "up": {
+      "files": 2375,
+      "avg_duration_sec": 0.968,
+      "min_duration_sec": 0.597,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 105,
+      "sample_bad_files": 0
+    },
+    "wow": {
+      "files": 1745,
+      "avg_duration_sec": 0.988,
+      "min_duration_sec": 0.597,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 124,
+      "sample_bad_files": 0
+    },
+    "yes": {
+      "files": 2377,
+      "avg_duration_sec": 0.985,
+      "min_duration_sec": 0.511,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 101,
+      "sample_bad_files": 0
+    },
+    "zero": {
+      "files": 2376,
+      "avg_duration_sec": 0.987,
+      "min_duration_sec": 0.64,
+      "max_duration_sec": 1.0,
+      "estimated_speakers": 98,
+      "sample_bad_files": 0
+    },
+    "_background_noise_": {
+      "files": 6,
+      "avg_duration_sec": 66.566,
+      "min_duration_sec": 60.0,
+      "max_duration_sec": 95.183,
+      "estimated_speakers": 0,
+      "sample_bad_files": 0
+    }
+  },
+  "TORGO": {
+    "total_files": 17633,
+    "avg_duration_sec": 3.461,
+    "min_duration_sec": 1.2,
+    "max_duration_sec": 15.0,
+    "estimated_speakers": 0,
+    "sample_bad_files": 1
+  }
+}

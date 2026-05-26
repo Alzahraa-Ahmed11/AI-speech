@@ -1,0 +1,23 @@
+# Virtual env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Training artifacts
+logs/
+checkpoints/
+
+# Datasets
+DATA_SET/
+data/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
